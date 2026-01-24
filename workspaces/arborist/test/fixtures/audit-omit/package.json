@@ -3,7 +3,7 @@
     "nyc": "^11.9.0"
   },
   "devDependencies": {
-    "tap": "^13.1.11"
+    "tap": "^18.0.0"
   },
   "optionalDependencies": {
     "nyc": "^11.9.0"
