@@ -5,6 +5,6 @@
     "react": "15"
   },
   "devDependencies": {
-    "tap": "unbundled"
+    "tap": "18.0.0"
   }
 }
